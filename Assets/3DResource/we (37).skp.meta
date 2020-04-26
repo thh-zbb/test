@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: d89ca2fbf3216f0429d124320dda67f2
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f0000004000000041000000420000004300000044000000450000004600000047000000480000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 3584d371c424e3f8705867cec7a812e9
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -5.650002, y: 3.3241549, z: 5.982868}
+      lookAt: {x: 4.8561497, y: 1.2135339, z: 2.8301654}
+      up: {x: 0.18097815, y: 0.9819865, z: -0.054308206}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: -5.650002, y: 3.3241549, z: 5.982868}
+        lookAt: {x: 4.8561497, y: 1.2135339, z: 2.8301654}
+        up: {x: 0.18097815, y: 0.9819865, z: -0.054308206}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: "\u65B0\u9875\u9762"
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Circle31
+    100002: Cylinder02
+    100004: Cylinder03
+    100006: Cylinder04
+    100008: Cylinder05
+    100010: Cylinder06
+    100012: Cylinder07
+    100014: Cylinder08
+    100016: Group 1
+    100018: Group 39
+    100020: Group 45
+    100022: Group 6
+    100024: Group 8
+    100026: Group 9
+    100028: Line660
+    100030: Line82
+    100032: Loft05
+    100034: Loft06
+    100036: Loft07
+    100038: Loft170
+    100040: Rectangl11
+    100042: Rectangl12
+    100044: Rectangl13
+    100046: Rectangl14
+    100048: Rectangl15
+    100050: Rectangl16
+    100052: Rectangl17
+    100054: Rectangl18
+    100056: Rectangl19
+    100058: Rectangl20
+    100060: Rectangl21
+    100062: Rectangl22
+    100064: Rectangl23
+    100066: Sphere130
+    100068: Sphere131
+    100070: Sphere132
+    100072: Sphere133
+    100074: Sphere153
+    100076: Sphere154
+    100078: Sphere155
+    100080: Sphere156
+    100082: Sphere157
+    100084: Sphere159
+    100086: Star01
+    100088: Star02
+    100090: Star03
+    100092: Star04
+    100094: Star05
+    100096: Star06
+    100098: Star07
+    100100: Star08
+    100102: Star09
+    100104: Venus2
+    100106: //RootNode
+    100108: "\u7FA4\u7EC4#44"
+    400000: Circle31
+    400002: Cylinder02
+    400004: Cylinder03
+    400006: Cylinder04
+    400008: Cylinder05
+    400010: Cylinder06
+    400012: Cylinder07
+    400014: Cylinder08
+    400016: Group 1
+    400018: Group 39
+    400020: Group 45
+    400022: Group 6
+    400024: Group 8
+    400026: Group 9
+    400028: Line660
+    400030: Line82
+    400032: Loft05
+    400034: Loft06
+    400036: Loft07
+    400038: Loft170
+    400040: Rectangl11
+    400042: Rectangl12
+    400044: Rectangl13
+    400046: Rectangl14
+    400048: Rectangl15
+    400050: Rectangl16
+    400052: Rectangl17
+    400054: Rectangl18
+    400056: Rectangl19
+    400058: Rectangl20
+    400060: Rectangl21
+    400062: Rectangl22
+    400064: Rectangl23
+    400066: Sphere130
+    400068: Sphere131
+    400070: Sphere132
+    400072: Sphere133
+    400074: Sphere153
+    400076: Sphere154
+    400078: Sphere155
+    400080: Sphere156
+    400082: Sphere157
+    400084: Sphere159
+    400086: Star01
+    400088: Star02
+    400090: Star03
+    400092: Star04
+    400094: Star05
+    400096: Star06
+    400098: Star07
+    400100: Star08
+    400102: Star09
+    400104: Venus2
+    400106: //RootNode
+    400108: "\u7FA4\u7EC4#44"
+    2100000: '[Color_D04]1'
+    2100002: '[Water_Pool_Light]'
+    2100004: 'Material #1'
+    2100006: '[Stone_Brushed_Khaki]'
+    2100008: 'Material #2'
+    2300000: Circle31
+    2300002: Cylinder02
+    2300004: Cylinder03
+    2300006: Cylinder04
+    2300008: Cylinder05
+    2300010: Cylinder06
+    2300012: Cylinder07
+    2300014: Cylinder08
+    2300016: Group 1
+    2300018: Group 39
+    2300020: Group 45
+    2300022: Group 6
+    2300024: Group 9
+    2300026: Line660
+    2300028: Line82
+    2300030: Loft05
+    2300032: Loft06
+    2300034: Loft07
+    2300036: Loft170
+    2300038: Rectangl11
+    2300040: Rectangl12
+    2300042: Rectangl13
+    2300044: Rectangl14
+    2300046: Rectangl15
+    2300048: Rectangl16
+    2300050: Rectangl17
+    2300052: Rectangl18
+    2300054: Rectangl19
+    2300056: Rectangl20
+    2300058: Rectangl21
+    2300060: Rectangl22
+    2300062: Rectangl23
+    2300064: Sphere130
+    2300066: Sphere131
+    2300068: Sphere132
+    2300070: Sphere133
+    2300072: Sphere153
+    2300074: Sphere154
+    2300076: Sphere155
+    2300078: Sphere156
+    2300080: Sphere157
+    2300082: Sphere159
+    2300084: Star01
+    2300086: Star02
+    2300088: Star03
+    2300090: Star04
+    2300092: Star05
+    2300094: Star06
+    2300096: Star07
+    2300098: Star08
+    2300100: Star09
+    2300102: Venus2
+    3300000: Circle31
+    3300002: Cylinder02
+    3300004: Cylinder03
+    3300006: Cylinder04
+    3300008: Cylinder05
+    3300010: Cylinder06
+    3300012: Cylinder07
+    3300014: Cylinder08
+    3300016: Group 1
+    3300018: Group 39
+    3300020: Group 45
+    3300022: Group 6
+    3300024: Group 9
+    3300026: Line660
+    3300028: Line82
+    3300030: Loft05
+    3300032: Loft06
+    3300034: Loft07
+    3300036: Loft170
+    3300038: Rectangl11
+    3300040: Rectangl12
+    3300042: Rectangl13
+    3300044: Rectangl14
+    3300046: Rectangl15
+    3300048: Rectangl16
+    3300050: Rectangl17
+    3300052: Rectangl18
+    3300054: Rectangl19
+    3300056: Rectangl20
+    3300058: Rectangl21
+    3300060: Rectangl22
+    3300062: Rectangl23
+    3300064: Sphere130
+    3300066: Sphere131
+    3300068: Sphere132
+    3300070: Sphere133
+    3300072: Sphere153
+    3300074: Sphere154
+    3300076: Sphere155
+    3300078: Sphere156
+    3300080: Sphere157
+    3300082: Sphere159
+    3300084: Star01
+    3300086: Star02
+    3300088: Star03
+    3300090: Star04
+    3300092: Star05
+    3300094: Star06
+    3300096: Star07
+    3300098: Star08
+    3300100: Star09
+    3300102: Venus2
+    4300000: Mesh Group 1
+    4300002: Mesh Loft05
+    4300004: Mesh Group 6
+    4300006: Mesh Group 9
+    4300008: Mesh Line660
+    4300010: Mesh Line82
+    4300012: Mesh Loft170
+    4300014: Mesh Sphere130
+    4300016: Mesh Sphere131
+    4300018: Mesh Sphere132
+    4300020: Mesh Sphere133
+    4300022: Mesh Sphere153
+    4300024: Mesh Sphere154
+    4300026: Mesh Sphere155
+    4300028: Mesh Sphere156
+    4300030: Mesh Sphere157
+    4300032: Mesh Sphere159
+    4300034: Mesh Venus2
+    4300036: Mesh Group 39
+    4300038: Mesh Rectangl23
+    4300040: Mesh Star05
+    4300042: Mesh Group 45
+    4300044: Mesh Loft06
+    4300046: Mesh Star02
+    4300048: Mesh Cylinder06
+    4300050: Mesh Cylinder07
+    4300052: Mesh Circle31
+    4300054: Mesh Cylinder02
+    4300056: Mesh Cylinder03
+    4300058: Mesh Cylinder05
+    4300060: Mesh Star04
+    4300062: Mesh Star01
+    4300064: Mesh Cylinder08
+    4300066: Mesh Loft07
+    4300068: Mesh Rectangl11
+    4300070: Mesh Rectangl12
+    4300072: Mesh Rectangl13
+    4300074: Mesh Rectangl14
+    4300076: Mesh Rectangl15
+    4300078: Mesh Rectangl16
+    4300080: Mesh Rectangl17
+    4300082: Mesh Rectangl18
+    4300084: Mesh Rectangl19
+    4300086: Mesh Rectangl20
+    4300088: Mesh Rectangl22
+    4300090: Mesh Star03
+    4300092: Mesh Star06
+    4300094: Mesh Star07
+    4300096: Mesh Star08
+    4300098: Mesh Star09
+    4300100: Mesh Cylinder04
+    4300102: Mesh Rectangl21
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
